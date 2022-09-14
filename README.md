@@ -19,10 +19,6 @@ butões para redes:
 </a> 
 -->
 
-
-
-
-
 ## Estudando Python e Medicina Veterinária
 
 <div align="center">
@@ -35,7 +31,7 @@ butões para redes:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Foto" height="960" width="640" style="border-radius:50px;" src="blob:https://tenor.com/854eddcb-b904-4fcd-9b99-154b5976ff6b">
+  <img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.imgur.com/bakN2B9.gif)" width="240" height="360" />
 </div>
   
   ##
@@ -45,7 +41,3 @@ butões para redes:
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-
-
-
