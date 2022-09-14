@@ -35,7 +35,7 @@ butões para redes:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Foto" height="960" width="640" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/62981c52-1a24-49ce-b38d-99c6197d955c/dc38lra-10109129-14fc-4265-9b23-74834a98ab43.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYyOTgxYzUyLTFhMjQtNDljZS1iMzhkLTk5YzYxOTdkOTU1Y1wvZGMzOGxyYS0xMDEwOTEyOS0xNGZjLTQyNjUtOWIyMy03NDgzNGE5OGFiNDMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.I9XoW8L_saMWpiez6jgXoVD8cz0LMwCRFnJ7ocgWmaU">
+  <img align="right" alt="Foto" height="960" width="640" style="border-radius:50px;" src="blob:https://tenor.com/854eddcb-b904-4fcd-9b99-154b5976ff6b">
 </div>
   
   ##
