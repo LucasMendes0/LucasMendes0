@@ -1,6 +1,6 @@
 ##
 
-<img align="right" height="420em" src="https://i.imgur.com/a2s7aS2.gif"/>
+<img align="right" height="200em" src="https://i.imgur.com/a2s7aS2.gif"/>
 
 ⚙️ &nbsp;      GitHub Analytics
 
