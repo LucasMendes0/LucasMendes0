@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://i.imgur.com/GG9Bz1M.gif"/>
+<img align="right" height="400em" src="https://i.imgur.com/GG9Bz1M.gif"/>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
