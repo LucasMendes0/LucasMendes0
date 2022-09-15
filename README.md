@@ -9,8 +9,8 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMendes0&layout=compact&theme=github_dark" alt="Linguagens"/>
 </p>
 
-<p align="right">
-<a href="https://git.io/typing-svg"><img align = "right "src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=+ESTE+DOG%C3%83O+SE+CHAMA+LUKE" alt="Typing SVG" /></a>
+<p>
+<a href="https://git.io/typing-svg"><img align = "right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=+ESTE+DOG%C3%83O+SE+CHAMA+LUKE" alt="Typing SVG" /></a>
 </p>
 
 ## 🛠 &nbsp;      Ferramentas
