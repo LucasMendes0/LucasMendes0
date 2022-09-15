@@ -1,13 +1,15 @@
-<img align="right" height="400em" src="https://i.imgur.com/GG9Bz1M.gif"/>
+##
 
-## ⚙️ &nbsp;GitHub Analytics
+<img align="right" height="550em" src="https://i.imgur.com/GG9Bz1M.gif"/>
+
+## ⚙️ &nbsp;      GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=LucasMendes0&show_icons=true&theme=github_dark" alt="Status"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMendes0&layout=compact&theme=github_dark" alt="Linguagens"/>
 </p>
 
-## 🛠 &nbsp;Ferramentas
+## 🛠 &nbsp;      Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
