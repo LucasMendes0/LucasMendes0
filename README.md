@@ -1,8 +1,8 @@
 ##
 
-<img align="right" height="470em" src="https://i.imgur.com/GG9Bz1M.gif"/>
+<img align="right" height="470em" src="https://i.imgur.com/a2s7aS2.gif"/>
 
-## ⚙️ &nbsp;      GitHub Analytics
+⚙️ &nbsp;      GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=LucasMendes0&show_icons=true&theme=github_dark" alt="Status"/>
