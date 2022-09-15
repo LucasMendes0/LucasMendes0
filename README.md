@@ -1,6 +1,6 @@
 ##
 
-<img align="right" height="450em" src="https://i.imgur.com/GG9Bz1M.gif"/>
+<img align="right" height="480em" src="https://i.imgur.com/GG9Bz1M.gif"/>
 
 ## ⚙️ &nbsp;      GitHub Analytics
 
@@ -16,8 +16,5 @@
 ## 🛠 &nbsp;      Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-
-<br><br>
-
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=LucasMendes0&theme=github-dark&hide_border=true&area=true)
