@@ -13,6 +13,7 @@
 <a href="https://git.io/typing-svg"><img align = "right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=+ESTE+DOG%C3%83O+SE+CHAMA+LUKE" alt="Typing SVG" /></a>
 </p>
 
+##
 ## 🛠 &nbsp;      Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
